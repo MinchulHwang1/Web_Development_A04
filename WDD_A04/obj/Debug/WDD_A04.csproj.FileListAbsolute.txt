@@ -1,0 +1,7 @@
+C:\localWebSite\WDD_A04\WDD_A04\bin\WDD_A04.dll.config
+C:\localWebSite\WDD_A04\WDD_A04\bin\WDD_A04.dll
+C:\localWebSite\WDD_A04\WDD_A04\bin\WDD_A04.pdb
+C:\localWebSite\WDD_A04\WDD_A04\obj\Debug\WDD_A04.csproj.AssemblyReference.cache
+C:\localWebSite\WDD_A04\WDD_A04\obj\Debug\WDD_A04.csproj.CoreCompileInputs.cache
+C:\localWebSite\WDD_A04\WDD_A04\obj\Debug\WDD_A04.dll
+C:\localWebSite\WDD_A04\WDD_A04\obj\Debug\WDD_A04.pdb
